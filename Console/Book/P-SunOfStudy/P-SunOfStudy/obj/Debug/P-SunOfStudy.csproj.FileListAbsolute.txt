@@ -1,0 +1,7 @@
+C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-SunOfStudy\P-SunOfStudy\bin\Debug\P-SunOfStudy.exe.config
+C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-SunOfStudy\P-SunOfStudy\bin\Debug\P-SunOfStudy.exe
+C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-SunOfStudy\P-SunOfStudy\bin\Debug\P-SunOfStudy.pdb
+C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-SunOfStudy\P-SunOfStudy\obj\Debug\P-SunOfStudy.csprojAssemblyReference.cache
+C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-SunOfStudy\P-SunOfStudy\obj\Debug\P-SunOfStudy.csproj.CoreCompileInputs.cache
+C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-SunOfStudy\P-SunOfStudy\obj\Debug\P-SunOfStudy.exe
+C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-SunOfStudy\P-SunOfStudy\obj\Debug\P-SunOfStudy.pdb

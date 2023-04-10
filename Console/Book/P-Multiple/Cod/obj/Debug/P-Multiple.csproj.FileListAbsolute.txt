@@ -1,0 +1,7 @@
+C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-Multiple\P-Multiple\bin\Debug\P-Multiple.exe.config
+C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-Multiple\P-Multiple\bin\Debug\P-Multiple.exe
+C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-Multiple\P-Multiple\bin\Debug\P-Multiple.pdb
+C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-Multiple\P-Multiple\obj\Debug\P-Multiple.csprojAssemblyReference.cache
+C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-Multiple\P-Multiple\obj\Debug\P-Multiple.csproj.CoreCompileInputs.cache
+C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-Multiple\P-Multiple\obj\Debug\P-Multiple.exe
+C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-Multiple\P-Multiple\obj\Debug\P-Multiple.pdb

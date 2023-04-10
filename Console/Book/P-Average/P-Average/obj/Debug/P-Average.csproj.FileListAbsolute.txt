@@ -1,0 +1,7 @@
+C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-Average\P-Average\bin\Debug\P-Average.exe.config
+C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-Average\P-Average\bin\Debug\P-Average.exe
+C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-Average\P-Average\bin\Debug\P-Average.pdb
+C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-Average\P-Average\obj\Debug\P-Average.csprojAssemblyReference.cache
+C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-Average\P-Average\obj\Debug\P-Average.csproj.CoreCompileInputs.cache
+C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-Average\P-Average\obj\Debug\P-Average.exe
+C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-Average\P-Average\obj\Debug\P-Average.pdb

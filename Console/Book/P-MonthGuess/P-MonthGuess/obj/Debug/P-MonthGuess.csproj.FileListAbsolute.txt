@@ -1,0 +1,7 @@
+C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-MonthGuess\P-MonthGuess\obj\Debug\P-MonthGuess.csprojAssemblyReference.cache
+C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-MonthGuess\P-MonthGuess\obj\Debug\P-MonthGuess.csproj.CoreCompileInputs.cache
+C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-MonthGuess\P-MonthGuess\bin\Debug\P-MonthGuess.exe.config
+C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-MonthGuess\P-MonthGuess\bin\Debug\P-MonthGuess.exe
+C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-MonthGuess\P-MonthGuess\bin\Debug\P-MonthGuess.pdb
+C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-MonthGuess\P-MonthGuess\obj\Debug\P-MonthGuess.exe
+C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-MonthGuess\P-MonthGuess\obj\Debug\P-MonthGuess.pdb
