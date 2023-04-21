@@ -1,7 +1,0 @@
-D:\GitHub\cSharp\Console\Accessory\Accessory\bin\Debug\Accessory.exe.config
-D:\GitHub\cSharp\Console\Accessory\Accessory\bin\Debug\Accessory.exe
-D:\GitHub\cSharp\Console\Accessory\Accessory\bin\Debug\Accessory.pdb
-D:\GitHub\cSharp\Console\Accessory\Accessory\obj\Debug\Accessory.csprojAssemblyReference.cache
-D:\GitHub\cSharp\Console\Accessory\Accessory\obj\Debug\Accessory.csproj.CoreCompileInputs.cache
-D:\GitHub\cSharp\Console\Accessory\Accessory\obj\Debug\Accessory.exe
-D:\GitHub\cSharp\Console\Accessory\Accessory\obj\Debug\Accessory.pdb
