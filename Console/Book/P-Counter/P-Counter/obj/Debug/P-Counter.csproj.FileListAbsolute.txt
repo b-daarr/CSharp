@@ -1,0 +1,7 @@
+C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-Counter\P-Counter\bin\Debug\P-Counter.exe.config
+C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-Counter\P-Counter\bin\Debug\P-Counter.exe
+C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-Counter\P-Counter\bin\Debug\P-Counter.pdb
+C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-Counter\P-Counter\obj\Debug\P-Counter.csprojAssemblyReference.cache
+C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-Counter\P-Counter\obj\Debug\P-Counter.csproj.CoreCompileInputs.cache
+C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-Counter\P-Counter\obj\Debug\P-Counter.exe
+C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-Counter\P-Counter\obj\Debug\P-Counter.pdb

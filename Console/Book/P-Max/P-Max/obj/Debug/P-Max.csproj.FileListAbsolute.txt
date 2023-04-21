@@ -1,0 +1,7 @@
+C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-Max\P-Max\bin\Debug\P-Max.exe.config
+C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-Max\P-Max\bin\Debug\P-Max.exe
+C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-Max\P-Max\bin\Debug\P-Max.pdb
+C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-Max\P-Max\obj\Debug\P-Max.csprojAssemblyReference.cache
+C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-Max\P-Max\obj\Debug\P-Max.csproj.CoreCompileInputs.cache
+C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-Max\P-Max\obj\Debug\P-Max.exe
+C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-Max\P-Max\obj\Debug\P-Max.pdb
