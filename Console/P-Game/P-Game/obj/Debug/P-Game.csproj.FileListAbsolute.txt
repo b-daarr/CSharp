@@ -1,7 +1,0 @@
-C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-Game\P-Game\bin\Debug\P-Game.exe.config
-C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-Game\P-Game\bin\Debug\P-Game.exe
-C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-Game\P-Game\bin\Debug\P-Game.pdb
-C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-Game\P-Game\obj\Debug\P-Game.csprojAssemblyReference.cache
-C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-Game\P-Game\obj\Debug\P-Game.csproj.CoreCompileInputs.cache
-C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-Game\P-Game\obj\Debug\P-Game.exe
-C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-Game\P-Game\obj\Debug\P-Game.pdb

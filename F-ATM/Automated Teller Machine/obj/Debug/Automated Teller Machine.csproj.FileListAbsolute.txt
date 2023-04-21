@@ -1,0 +1,30 @@
+C:\Users\abb00\OneDrive\Desktop\Automated Teller Machine\Automated Teller Machine\bin\Debug\Automated Teller Machine.exe.config
+C:\Users\abb00\OneDrive\Desktop\Automated Teller Machine\Automated Teller Machine\bin\Debug\Automated Teller Machine.exe
+C:\Users\abb00\OneDrive\Desktop\Automated Teller Machine\Automated Teller Machine\bin\Debug\Automated Teller Machine.pdb
+C:\Users\abb00\OneDrive\Desktop\Automated Teller Machine\Automated Teller Machine\obj\Debug\Automated Teller Machine.csprojAssemblyReference.cache
+C:\Users\abb00\OneDrive\Desktop\Automated Teller Machine\Automated Teller Machine\obj\Debug\Automated_Teller_Machine.Form1.resources
+C:\Users\abb00\OneDrive\Desktop\Automated Teller Machine\Automated Teller Machine\obj\Debug\Automated_Teller_Machine.Properties.Resources.resources
+C:\Users\abb00\OneDrive\Desktop\Automated Teller Machine\Automated Teller Machine\obj\Debug\Automated Teller Machine.csproj.GenerateResource.cache
+C:\Users\abb00\OneDrive\Desktop\Automated Teller Machine\Automated Teller Machine\obj\Debug\Automated Teller Machine.csproj.CoreCompileInputs.cache
+C:\Users\abb00\OneDrive\Desktop\Automated Teller Machine\Automated Teller Machine\obj\Debug\Automated Teller Machine.exe
+C:\Users\abb00\OneDrive\Desktop\Automated Teller Machine\Automated Teller Machine\obj\Debug\Automated Teller Machine.pdb
+C:\Users\abb00\OneDrive\Desktop\Automated Teller Machine - Copy\Automated Teller Machine\bin\Debug\Automated Teller Machine.exe.config
+C:\Users\abb00\OneDrive\Desktop\Automated Teller Machine - Copy\Automated Teller Machine\bin\Debug\Automated Teller Machine.exe
+C:\Users\abb00\OneDrive\Desktop\Automated Teller Machine - Copy\Automated Teller Machine\bin\Debug\Automated Teller Machine.pdb
+C:\Users\abb00\OneDrive\Desktop\Automated Teller Machine - Copy\Automated Teller Machine\obj\Debug\Automated Teller Machine.csprojAssemblyReference.cache
+C:\Users\abb00\OneDrive\Desktop\Automated Teller Machine - Copy\Automated Teller Machine\obj\Debug\Automated_Teller_Machine.Form1.resources
+C:\Users\abb00\OneDrive\Desktop\Automated Teller Machine - Copy\Automated Teller Machine\obj\Debug\Automated_Teller_Machine.Properties.Resources.resources
+C:\Users\abb00\OneDrive\Desktop\Automated Teller Machine - Copy\Automated Teller Machine\obj\Debug\Automated Teller Machine.csproj.GenerateResource.cache
+C:\Users\abb00\OneDrive\Desktop\Automated Teller Machine - Copy\Automated Teller Machine\obj\Debug\Automated Teller Machine.csproj.CoreCompileInputs.cache
+C:\Users\abb00\OneDrive\Desktop\Automated Teller Machine - Copy\Automated Teller Machine\obj\Debug\Automated Teller Machine.exe
+C:\Users\abb00\OneDrive\Desktop\Automated Teller Machine - Copy\Automated Teller Machine\obj\Debug\Automated Teller Machine.pdb
+C:\Users\abb00\OneDrive\Desktop\ATM-test\Automated Teller Machine\obj\Debug\Automated Teller Machine.csprojAssemblyReference.cache
+C:\Users\abb00\OneDrive\Desktop\ATM-test\Automated Teller Machine\obj\Debug\Automated_Teller_Machine.Form1.resources
+C:\Users\abb00\OneDrive\Desktop\ATM-test\Automated Teller Machine\obj\Debug\Automated_Teller_Machine.Properties.Resources.resources
+C:\Users\abb00\OneDrive\Desktop\ATM-test\Automated Teller Machine\obj\Debug\Automated Teller Machine.csproj.GenerateResource.cache
+C:\Users\abb00\OneDrive\Desktop\ATM-test\Automated Teller Machine\obj\Debug\Automated Teller Machine.csproj.CoreCompileInputs.cache
+C:\Users\abb00\OneDrive\Desktop\ATM-test\Automated Teller Machine\obj\Debug\Automated Teller Machine.exe
+C:\Users\abb00\OneDrive\Desktop\ATM-test\Automated Teller Machine\obj\Debug\Automated Teller Machine.pdb
+C:\Users\abb00\OneDrive\Desktop\ATM-test\Automated Teller Machine\bin\Debug\Automated Teller Machine.exe.config
+C:\Users\abb00\OneDrive\Desktop\ATM-test\Automated Teller Machine\bin\Debug\Automated Teller Machine.exe
+C:\Users\abb00\OneDrive\Desktop\ATM-test\Automated Teller Machine\bin\Debug\Automated Teller Machine.pdb

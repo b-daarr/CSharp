@@ -1,7 +1,0 @@
-C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-Even\P-Even\bin\Debug\P-Even.exe.config
-C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-Even\P-Even\bin\Debug\P-Even.exe
-C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-Even\P-Even\bin\Debug\P-Even.pdb
-C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-Even\P-Even\obj\Debug\P-Even.csproj.CoreCompileInputs.cache
-C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-Even\P-Even\obj\Debug\P-Even.exe
-C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-Even\P-Even\obj\Debug\P-Even.pdb
-C:\Users\abb00\OneDrive\Desktop\C#\Book\Console Application\P-Even\P-Even\obj\Debug\P-Even.csprojAssemblyReference.cache
