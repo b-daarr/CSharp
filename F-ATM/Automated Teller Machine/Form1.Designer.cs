@@ -68,7 +68,6 @@
             this.cardBank = new System.Windows.Forms.PictureBox();
             this.cardInput = new System.Windows.Forms.PictureBox();
             this.client = new System.Windows.Forms.Panel();
-            this.message = new System.Windows.Forms.Label();
             this.receptionBank = new System.Windows.Forms.PictureBox();
             this.menu = new System.Windows.Forms.MenuStrip();
             this.customaizeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -303,7 +302,7 @@
             this.messages.Enabled = false;
             this.messages.Font = new System.Drawing.Font("Segoe UI", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.messages.ForeColor = System.Drawing.Color.Black;
-            this.messages.Location = new System.Drawing.Point(379, 67);
+            this.messages.Location = new System.Drawing.Point(215, 329);
             this.messages.Multiline = true;
             this.messages.Name = "messages";
             this.messages.Size = new System.Drawing.Size(181, 45);
@@ -624,7 +623,6 @@
             this.client.BackColor = System.Drawing.Color.Transparent;
             this.client.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("client.BackgroundImage")));
             this.client.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.client.Controls.Add(this.message);
             this.client.Controls.Add(this.receptionBank);
             this.client.Controls.Add(this.cardInput);
             this.client.Controls.Add(this.messages);
@@ -634,17 +632,6 @@
             this.client.TabIndex = 41;
             this.client.MouseEnter += new System.EventHandler(this.client_MouseEnter);
             this.client.MouseMove += new System.Windows.Forms.MouseEventHandler(this.client_MouseMove);
-            // 
-            // message
-            // 
-            this.message.AutoSize = true;
-            this.message.BackColor = System.Drawing.Color.White;
-            this.message.ForeColor = System.Drawing.Color.Black;
-            this.message.Location = new System.Drawing.Point(408, 80);
-            this.message.Name = "message";
-            this.message.Size = new System.Drawing.Size(15, 17);
-            this.message.TabIndex = 43;
-            this.message.Text = "v";
             // 
             // receptionBank
             // 
@@ -781,7 +768,6 @@
         private System.Windows.Forms.MenuStrip menu;
         private System.Windows.Forms.ToolStripMenuItem customaizeToolStripMenuItem;
         private System.Windows.Forms.PictureBox receptionBank;
-        private System.Windows.Forms.Label message;
     }
 }
 

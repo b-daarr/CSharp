@@ -28,3 +28,13 @@ C:\Users\abb00\OneDrive\Desktop\ATM-test\Automated Teller Machine\obj\Debug\Auto
 C:\Users\abb00\OneDrive\Desktop\ATM-test\Automated Teller Machine\bin\Debug\Automated Teller Machine.exe.config
 C:\Users\abb00\OneDrive\Desktop\ATM-test\Automated Teller Machine\bin\Debug\Automated Teller Machine.exe
 C:\Users\abb00\OneDrive\Desktop\ATM-test\Automated Teller Machine\bin\Debug\Automated Teller Machine.pdb
+D:\GitHub\cSharp\F-ATM\Automated Teller Machine\bin\Debug\Automated Teller Machine.exe.config
+D:\GitHub\cSharp\F-ATM\Automated Teller Machine\bin\Debug\Automated Teller Machine.exe
+D:\GitHub\cSharp\F-ATM\Automated Teller Machine\bin\Debug\Automated Teller Machine.pdb
+D:\GitHub\cSharp\F-ATM\Automated Teller Machine\obj\Debug\Automated Teller Machine.csprojAssemblyReference.cache
+D:\GitHub\cSharp\F-ATM\Automated Teller Machine\obj\Debug\Automated_Teller_Machine.Form1.resources
+D:\GitHub\cSharp\F-ATM\Automated Teller Machine\obj\Debug\Automated_Teller_Machine.Properties.Resources.resources
+D:\GitHub\cSharp\F-ATM\Automated Teller Machine\obj\Debug\Automated Teller Machine.csproj.GenerateResource.cache
+D:\GitHub\cSharp\F-ATM\Automated Teller Machine\obj\Debug\Automated Teller Machine.csproj.CoreCompileInputs.cache
+D:\GitHub\cSharp\F-ATM\Automated Teller Machine\obj\Debug\Automated Teller Machine.exe
+D:\GitHub\cSharp\F-ATM\Automated Teller Machine\obj\Debug\Automated Teller Machine.pdb
