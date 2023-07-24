@@ -53,8 +53,6 @@ namespace Automated_Teller_Machine
             zero3Ctrl.Visible = true;
 
             ////////////////////////
-            ///
-            message.Text = "Salam";
         }
 
         private void closeCtrl_Click(object sender, EventArgs e)
@@ -279,6 +277,11 @@ namespace Automated_Teller_Machine
                 moreBtn7.Enabled = true;
                 moreBtn8.Enabled = true;
             }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
