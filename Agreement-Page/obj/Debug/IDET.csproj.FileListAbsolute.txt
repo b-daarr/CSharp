@@ -1,0 +1,11 @@
+D:\IDET\bin\Debug\IDET.exe.config
+D:\IDET\bin\Debug\IDET.exe
+D:\IDET\bin\Debug\IDET.pdb
+D:\IDET\obj\Debug\IDET.csproj.AssemblyReference.cache
+D:\IDET\obj\Debug\IDET.Properties.Resources.resources
+D:\IDET\obj\Debug\IDET.csproj.GenerateResource.cache
+D:\IDET\obj\Debug\IDET.csproj.CoreCompileInputs.cache
+D:\IDET\obj\Debug\IDET.exe
+D:\IDET\obj\Debug\IDET.pdb
+D:\IDET\obj\Debug\IDET.LicenseAgreement.resources
+D:\IDET\obj\Debug\IDET.csproj.SuggestedBindingRedirects.cache
