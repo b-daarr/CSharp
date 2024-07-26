@@ -1,0 +1,15 @@
+D:\GitHub-Me\CSharp\Edu\P04\obj\Debug\net8.0\P04.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub-Me\CSharp\Edu\P04\obj\Debug\net8.0\P04.AssemblyInfoInputs.cache
+D:\GitHub-Me\CSharp\Edu\P04\obj\Debug\net8.0\P04.AssemblyInfo.cs
+D:\GitHub-Me\CSharp\Edu\P04\obj\Debug\net8.0\P04.csproj.CoreCompileInputs.cache
+D:\GitHub-Me\CSharp\Edu\P04\obj\Debug\net8.0\P04.sourcelink.json
+D:\GitHub-Me\CSharp\Edu\P04\bin\Debug\net8.0\P04.exe
+D:\GitHub-Me\CSharp\Edu\P04\bin\Debug\net8.0\P04.deps.json
+D:\GitHub-Me\CSharp\Edu\P04\bin\Debug\net8.0\P04.runtimeconfig.json
+D:\GitHub-Me\CSharp\Edu\P04\bin\Debug\net8.0\P04.dll
+D:\GitHub-Me\CSharp\Edu\P04\bin\Debug\net8.0\P04.pdb
+D:\GitHub-Me\CSharp\Edu\P04\obj\Debug\net8.0\P04.dll
+D:\GitHub-Me\CSharp\Edu\P04\obj\Debug\net8.0\refint\P04.dll
+D:\GitHub-Me\CSharp\Edu\P04\obj\Debug\net8.0\P04.pdb
+D:\GitHub-Me\CSharp\Edu\P04\obj\Debug\net8.0\P04.genruntimeconfig.cache
+D:\GitHub-Me\CSharp\Edu\P04\obj\Debug\net8.0\ref\P04.dll

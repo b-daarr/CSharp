@@ -5,7 +5,8 @@
         static void Main(string[] args)
         {
             Console.Write("Enter a number: ");
-            int number = int.Parse(Console.ReadLine());
+
+            int? number = int.Parse(Console.ReadLine());
 
             // if, else if, else
             if (number % 2 == 0)

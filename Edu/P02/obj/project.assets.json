@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MICROSOFT\\source\\repos\\P02\\P02.csproj",
+      "projectUniqueName": "D:\\GitHub-Me\\CSharp\\Edu\\P02\\P02.csproj",
       "projectName": "P02",
-      "projectPath": "C:\\Users\\MICROSOFT\\source\\repos\\P02\\P02.csproj",
+      "projectPath": "D:\\GitHub-Me\\CSharp\\Edu\\P02\\P02.csproj",
       "packagesPath": "C:\\Users\\MICROSOFT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MICROSOFT\\source\\repos\\P02\\obj\\",
+      "outputPath": "D:\\GitHub-Me\\CSharp\\Edu\\P02\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

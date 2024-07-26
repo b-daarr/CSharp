@@ -8,7 +8,7 @@
 
             Console.WriteLine("Number is {0}", i);
 
-	    Console.ReadKey();
+            Console.ReadKey();
         }
     }
 }
