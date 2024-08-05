@@ -1,0 +1,15 @@
+D:\GitHub-Me\CSharp\Edu\CSharp-C01\bin\Debug\net8.0\CSharp-C01.exe
+D:\GitHub-Me\CSharp\Edu\CSharp-C01\bin\Debug\net8.0\CSharp-C01.deps.json
+D:\GitHub-Me\CSharp\Edu\CSharp-C01\bin\Debug\net8.0\CSharp-C01.runtimeconfig.json
+D:\GitHub-Me\CSharp\Edu\CSharp-C01\bin\Debug\net8.0\CSharp-C01.dll
+D:\GitHub-Me\CSharp\Edu\CSharp-C01\bin\Debug\net8.0\CSharp-C01.pdb
+D:\GitHub-Me\CSharp\Edu\CSharp-C01\obj\Debug\net8.0\CSharp-C01.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub-Me\CSharp\Edu\CSharp-C01\obj\Debug\net8.0\CSharp-C01.AssemblyInfoInputs.cache
+D:\GitHub-Me\CSharp\Edu\CSharp-C01\obj\Debug\net8.0\CSharp-C01.AssemblyInfo.cs
+D:\GitHub-Me\CSharp\Edu\CSharp-C01\obj\Debug\net8.0\CSharp-C01.csproj.CoreCompileInputs.cache
+D:\GitHub-Me\CSharp\Edu\CSharp-C01\obj\Debug\net8.0\CSharp-C01.sourcelink.json
+D:\GitHub-Me\CSharp\Edu\CSharp-C01\obj\Debug\net8.0\CSharp-C01.dll
+D:\GitHub-Me\CSharp\Edu\CSharp-C01\obj\Debug\net8.0\refint\CSharp-C01.dll
+D:\GitHub-Me\CSharp\Edu\CSharp-C01\obj\Debug\net8.0\CSharp-C01.pdb
+D:\GitHub-Me\CSharp\Edu\CSharp-C01\obj\Debug\net8.0\CSharp-C01.genruntimeconfig.cache
+D:\GitHub-Me\CSharp\Edu\CSharp-C01\obj\Debug\net8.0\ref\CSharp-C01.dll
