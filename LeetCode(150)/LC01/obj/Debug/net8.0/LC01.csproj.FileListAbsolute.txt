@@ -1,0 +1,14 @@
+C:\Users\MICROSOFT\Desktop\C#Me\Project\LC\LC01\bin\Debug\net8.0\LC01.exe
+C:\Users\MICROSOFT\Desktop\C#Me\Project\LC\LC01\bin\Debug\net8.0\LC01.deps.json
+C:\Users\MICROSOFT\Desktop\C#Me\Project\LC\LC01\bin\Debug\net8.0\LC01.runtimeconfig.json
+C:\Users\MICROSOFT\Desktop\C#Me\Project\LC\LC01\bin\Debug\net8.0\LC01.dll
+C:\Users\MICROSOFT\Desktop\C#Me\Project\LC\LC01\bin\Debug\net8.0\LC01.pdb
+C:\Users\MICROSOFT\Desktop\C#Me\Project\LC\LC01\obj\Debug\net8.0\LC01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICROSOFT\Desktop\C#Me\Project\LC\LC01\obj\Debug\net8.0\LC01.AssemblyInfoInputs.cache
+C:\Users\MICROSOFT\Desktop\C#Me\Project\LC\LC01\obj\Debug\net8.0\LC01.AssemblyInfo.cs
+C:\Users\MICROSOFT\Desktop\C#Me\Project\LC\LC01\obj\Debug\net8.0\LC01.csproj.CoreCompileInputs.cache
+C:\Users\MICROSOFT\Desktop\C#Me\Project\LC\LC01\obj\Debug\net8.0\LC01.dll
+C:\Users\MICROSOFT\Desktop\C#Me\Project\LC\LC01\obj\Debug\net8.0\refint\LC01.dll
+C:\Users\MICROSOFT\Desktop\C#Me\Project\LC\LC01\obj\Debug\net8.0\LC01.pdb
+C:\Users\MICROSOFT\Desktop\C#Me\Project\LC\LC01\obj\Debug\net8.0\LC01.genruntimeconfig.cache
+C:\Users\MICROSOFT\Desktop\C#Me\Project\LC\LC01\obj\Debug\net8.0\ref\LC01.dll
