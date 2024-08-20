@@ -9,9 +9,6 @@
             {
                 for (int j = 0; j < nums.Length; ++j)
                 {
-                    Console.WriteLine("\n i --> {0}\n j --> {1}", i, j);
-                    Console.WriteLine("temp Result >>> " + (nums[j] + nums[i]));
-
                     if (i != j && nums[i] + nums[j] == target)
                     {
                         result.Add(i);
@@ -20,11 +17,6 @@
                         j = i;
                     }
                 }
-            }
-
-            foreach (int k in result)
-            {
-                Console.WriteLine("Result " + k);
             }
             return result.ToArray();
         }
